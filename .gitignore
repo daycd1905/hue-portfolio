@@ -1,0 +1,17 @@
+# Extraction / archive artifacts
+*.zip
+hue portforlio/
+
+# Superseded single-file export
+Kim Hue Portfolio.html
+
+# Dev artifacts — not part of the deployed site
+screenshots/
+
+# Raw, unprocessed uploads — not referenced by any page
+uploads/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.thumbnail
